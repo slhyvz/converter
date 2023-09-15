@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+
+
+.headerLo{
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+
+}
+
+.demoStyle{
+    font-family: cursive;
+    text-align: center;
+    font-size: 70px;
+    color: rgb(50, 139, 255);
+}
